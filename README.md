@@ -1,5 +1,5 @@
 # Bluehouse.py
-##### A program written in python to see keywords from the website of the executive office and official residence of the Republic of Korea's head of state, CHEONG WA DAE, a.k.a. Blue House
+##### A program written in python to see keywords from the website of the executive office and official residence of the Republic of Korea's head of state, CHEONG WA DAE.
 ##### Final Project for CS50x
 
 ## Description
